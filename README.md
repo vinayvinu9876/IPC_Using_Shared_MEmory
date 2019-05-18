@@ -3,10 +3,11 @@ IPc using shared memory and threads
 
 
 How to Run the program?
+STEP 1: Open Linux Terminal
 
-STEP 1: Go to the directory
+STEP 2: Go to the directory
 
-STEP 2: sh process_run.sh
+STEP 3: sh process_run.sh
 
 
 
