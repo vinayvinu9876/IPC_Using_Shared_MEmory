@@ -3,6 +3,8 @@ IPc using shared memory and threads
 
 
 How to Run the program?
+
+
 STEP 1: Open Linux Terminal
 
 STEP 2: Go to the directory
